@@ -68,14 +68,14 @@ gitGraph
 
 ---
 
-## 4.4 التوثيق البصري (لقطات الشاشة - Screenshots Placeholders)
-
-> **[مكان مخصص لإدراج لقطات الشاشة بعد الرفع على GitHub]**
+## 4.4 التوثيق البصري (لقطات الشاشة - Screenshots)
 
 1. **لقطة شاشة لمخطط الفروع (Git Graph / Insights -> Network):**
    - *الوصف:* توضح تفرع `docs/*` من `develop` ودمجها باستخدام `--no-ff` ثم الدمج النهائي في `main`.
-   - `<!-- TODO: أدرج صورة Git Graph هنا: ![Git Graph](./assets/git-graph.png) -->`
+
+   ![Git Graph](../assets/git-graph.png)
 
 2. **لقطة شاشة للوحة كانبان (GitHub Projects - Kanban Board):**
-   - *الوصف:* توضح توزيع عناصر الـ Product Backlog بين الأعمدة (`To Do`, `In Progress`, `In Review`, `Done`) مع Labels الوحدات والأولويات.
-   - `<!-- TODO: أدرج صورة Kanban Board هنا: ![Kanban Board](./assets/kanban-board.png) -->`
+   - *الوصف:* توضح توزيع عناصر الـ Product Backlog بين الأعمدة (`Backlog`, `Ready`, `In progress`, `In review`, `Done`) مع ربطها بالـ Issues.
+
+   ![Kanban Board](../assets/kanban-board.png)
