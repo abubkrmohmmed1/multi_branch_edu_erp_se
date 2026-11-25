@@ -9,13 +9,13 @@
 
 | البيان | التفاصيل |
 | :--- | :--- |
-| **اسم الطالب (Student Name)** | [أدخل اسم الطالب هنا] |
-| **الرقم الجامعي (Student ID)** | [أدخل الرقم الجامعي هنا] |
-| **الجامعة (University)** | [أدخل اسم الجامعة هنا] |
-| **الكلية / القسم (Faculty / Dept)** | [أدخل الكلية / القسم هنا] |
+| **اسم الطالب (Student Name)** | [أبوبكر محمد علي خلف الله] |
+| **الرقم الجامعي (Student ID)** | [2-125834141] |
+| **الجامعة (University)** | [جامعة النيلين] |
+| **الكلية / القسم (Faculty / Dept)** | [كلية علوم الحاسوب و تقانة المعلومات / ماجستير تقانة المعلومات] |
 | **المقرر الدراسي (Course)** | هندسة البرمجيات (Software Engineering) |
-| **إشراف (Supervised by)** | [أدخل اسم الدكتور / المشرف هنا] |
-| **التاريخ (Date)** | 2026-11-25 |
+| **إشراف (Supervised by)** | [أ.علوية] |
+| **التاريخ (Date)** | 2026-11-24 |
 
 ---
 
@@ -499,17 +499,17 @@ gitGraph
 
 ---
 
-## 4.4 التوثيق البصري (لقطات الشاشة - Screenshots Placeholders)
-
-> **[مكان مخصص لإدراج لقطات الشاشة بعد الرفع على GitHub]**
+## 4.4 التوثيق البصري (لقطات الشاشة - Screenshots)
 
 1. **لقطة شاشة لمخطط الفروع (Git Graph / Insights -> Network):**
    - *الوصف:* توضح تفرع `docs/*` من `develop` ودمجها باستخدام `--no-ff` ثم الدمج النهائي في `main`.
-   - `<!-- TODO: أدرج صورة Git Graph هنا: ![Git Graph](./assets/git-graph.png) -->`
+
+   ![Git Graph](./assets/git-graph.png)
 
 2. **لقطة شاشة للوحة كانبان (GitHub Projects - Kanban Board):**
-   - *الوصف:* توضح توزيع عناصر الـ Product Backlog بين الأعمدة (`To Do`, `In Progress`, `In Review`, `Done`) مع Labels الوحدات والأولويات.
-   - `<!-- TODO: أدرج صورة Kanban Board هنا: ![Kanban Board](./assets/kanban-board.png) -->`
+   - *الوصف:* توضح توزيع عناصر الـ Product Backlog بين الأعمدة (`Backlog`, `Ready`, `In progress`, `In review`, `Done`) مع ربطها بالـ Issues.
+
+   ![Kanban Board](./assets/kanban-board.png)
 
 ---
 
